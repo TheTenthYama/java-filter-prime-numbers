@@ -1,5 +1,3 @@
-package com.bytelegend;
-
 import java.util.Arrays;
 
 public class Challenge {
