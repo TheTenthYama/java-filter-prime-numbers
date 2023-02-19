@@ -24,7 +24,7 @@ public class Challenge {
         if (start <= 3 && end >= 3) {
             arr.add(2);
             arr.add(3);
-        }else if (start <= 2 && end >= 2) {
+        } else if (start <= 2 && end >= 2) {
             arr.add(2);
         }
         for (int i = start; i <= end; i++) {
